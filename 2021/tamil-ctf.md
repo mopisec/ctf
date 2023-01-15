@@ -6,17 +6,15 @@ This is the writeup article for reversing challenges except "Fool Me" in Tamil C
 
 Challenge that requires player to analyze the file with data of digital logic circuit. By searching with interesting strings inside the `encrypt.dig` (e.g. `visualElement`), tool named `Digital` can be found on GitHub ([Link](https://github.com/hneemann/Digital)). Opening the file using this tool will provide a visualized information like below.
 
-<figure class="figure-image figure-image-fotolife" title="Screenshot from Digital (opening encrypt.dig)">[f:id:m0pisec:20210927073245p:plain]<figcaption>Screenshot from Digital (opening encrypt.dig)</figcaption></figure>
-
 By writing some sort of script / program that decodes the data inside `output.txt`, flag can be obtained.
 
-[https://hackmd.io/@mopi/H1MPww07F
+https://hackmd.io/@mopi/H1MPww07F
 
 ## Obscure
 
 Byte-Compiled Python code file is distributed, so it can be reversed into Python script using tool like [uncompyle2](https://github.com/wibiti/uncompyle2). By obtaining the encoded flag inside the script, and reverse the flow that is generating the encoded data, flag can be obtained.
 
-[https://hackmd.io/@mopi/ryutqERQY
+https://hackmd.io/@mopi/ryutqERQY
 
 ## eezy
 
