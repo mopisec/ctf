@@ -1,3 +1,5 @@
+# SECCON CTF 2022 Quals Writeup
+
 ## はじめに
 
 ソロで参加して700チーム((Welcome問を解いたチーム))中145位でした。他参加者のWriteupを読むのが楽しくて、公開が遅れてしまいましたが、今回解けたreversingの2問のWriteupを共有できればと思います。  
