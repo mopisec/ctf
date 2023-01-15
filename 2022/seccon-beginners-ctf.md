@@ -1,3 +1,5 @@
+# SECCON Beginners CTF 2022 Writeup
+
 ## はじめに
 
 今年は1人チームで参加して、reversingを中心に何問か解いていました。reversingは全問解けて、hardの問題でFirst Bloodを取ることもできたので良かったです。
